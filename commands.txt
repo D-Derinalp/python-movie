@@ -1,0 +1,2 @@
+docker build -t python-movie .
+docker run python-movie
